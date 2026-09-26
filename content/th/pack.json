@@ -1,0 +1,381 @@
+{
+  "destination": "th",
+  "version": "2026.09.27",
+  "updatedAt": "2026-09-27",
+  "revisions": 30,
+  "riskPack": {
+    "entry": [
+      {
+        "title": "免签停留 ≤30 天（最新时效）",
+        "body": "2026-09-15 起恢复中泰双边协定：单次停留 ≤30 天，每 180 天累计 ≤90 天。网上「60 天免签」均为 2026-09-14 前已失效的旧规。",
+        "source": "中国驻泰国使馆领事提醒 / 新华网",
+        "sourceDate": "2026-09-02",
+        "needsReview": false
+      },
+      {
+        "title": "免签适用范围",
+        "body": "中泰互免签证协定 2024-03-01 生效，中国普通护照免签入境；工作/学习/新闻/定居须事先办签证。经陆路口岸免签入境原则上每自然年 ≤2 次，空路无此限。",
+        "source": "中国领事服务网·泰国 / 泰国旅游局中文官网",
+        "sourceDate": "2026-09-15",
+        "needsReview": false
+      },
+      {
+        "title": "护照要求",
+        "body": "有效期须 6 个月以上、无破损，预留足够空白签证页（官方未量化页数）。",
+        "source": "驻宋卡总领馆",
+        "sourceDate": "2026-06-10",
+        "needsReview": true
+      },
+      {
+        "title": "TDAC 电子入境卡（强制）",
+        "body": "2025-05-01 起对所有入境外国人强制：抵达前 3 天（72 小时）内在官网 tdac.immigration.go.th 免费填报，提交后得确认 QR Code 入境出示。谨防假冒收费网站；禁区内转机不过移民检查者豁免。",
+        "source": "泰国政府门户 / 驻宋卡总领馆",
+        "sourceDate": "2025-05-28",
+        "needsReview": false
+      },
+      {
+        "title": "入境抽查项",
+        "body": "备返程/前往第三国机票、酒店订单、现金（个人 ≥10,000 铢、家庭 ≥20,000 铢或等值）。2026-06 使馆通报多起因缺返程票/住宿/资金证明被拒入境；避免频繁短期往返（「刷签」会被劝返）。",
+        "source": "驻宋卡总领馆 / 驻泰使馆",
+        "sourceDate": "2026-06-10",
+        "needsReview": false
+      },
+      {
+        "title": "延期与逾期后果",
+        "body": "免签可在各地移民局延期 1 次 ≤30 天（1,900 铢，TM.7 表 + 4×6cm 照片 + 护照复印件）；逾期罚 500 铢/天（上限 2 万），逾期 90 天以上有 1–10 年入境禁令。",
+        "source": "中国领事服务网·泰国",
+        "sourceDate": "2026-09-27 调研",
+        "needsReview": false
+      }
+    ],
+    "transit": [
+      {
+        "title": "禁区内纯转机（不入境）",
+        "body": "不需签证、不需 TDAC，直接走转机通道。",
+        "source": "中国领事服务网·泰国",
+        "sourceDate": "2026-09-27 调研",
+        "needsReview": false
+      },
+      {
+        "title": "需入境的转机",
+        "body": "取行李/换机场/入境游玩：中国护照免签直接入境，但须提前 3 天内填 TDAC，并备返程票/酒店/现金。",
+        "source": "中国领事服务网·泰国",
+        "sourceDate": "2026-09-27 调研",
+        "needsReview": false
+      },
+      {
+        "title": "BKK（素万那普）转机",
+        "body": "国际转国际走 Transfer 通道，官方 MCT 75 分钟、建议 ≥2 小时；国际转国内必须先入境取行李再重新值机。",
+        "source": "Trip.com 转机攻略（OTA 交叉验证）",
+        "sourceDate": "2026-04",
+        "needsReview": false
+      },
+      {
+        "title": "DMK（廊曼，廉航枢纽）",
+        "body": "亚航 Fly-Thru 联程可禁区内直转（建议 ≥90 分钟）；分开出票的两张廉航机票不直挂，必须入境取行李重新值机（BKK 预留 3.5–4 小时，DMK 3–4 小时）。",
+        "source": "AirAsia 官方 Fly-Thru / DMK 转机指南",
+        "sourceDate": "2026-08",
+        "needsReview": false
+      },
+      {
+        "title": "跨机场中转（BKK↔DMK）",
+        "body": "必须入境；官方免费穿梭巴士（BKK 2 层 3 号门 / DMK T1 一层 6 号门，05:00–24:00，30 分钟一班，凭当日另一机场机票+护照），车程 50–60 分钟；建议预留 ≥4–5 小时，高峰 6 小时。订票注意别混淆 BKK/DMK 三段码。",
+        "source": "素万那普机场官网 / AirAsia",
+        "sourceDate": "2025-04-11",
+        "needsReview": false
+      }
+    ],
+    "airport": [
+      {
+        "title": "BKK 机场快线 ARL",
+        "body": "航站楼 B1 层，05:30–24:00；终点 Phaya Thai 45 铢约 30 分钟（换 BTS），Makkasan 35 铢（换 MRT）。分段票价以现场为准。",
+        "source": "素万那普机场官网",
+        "sourceDate": "2025-04-11",
+        "needsReview": true
+      },
+      {
+        "title": "BKK 官方出租车",
+        "body": "1 层 Gate 4–7 自动取票机取号上车，打表；总价 = 表价 + 50 铢机场服务费 + 高速费（25–75 铢）；到市区合理总价约 350–500 铢，超出即警惕。",
+        "source": "AOT Public Taxi",
+        "sourceDate": "2025-09-08",
+        "needsReview": false
+      },
+      {
+        "title": "DMK 出租车与机场大巴",
+        "body": "出租车 T1 一层 Gate 8 / T2 Gate 15 旁，同样打表 + 50 铢 + 高速费，到市区约 300–500 铢；大巴 A1–A4 在 T1 一层 Gate 6，A1/A2 30 铢（A1→Mo Chit 换 BTS/MRT）、A3/A4 50 铢。",
+        "source": "AOT 廊曼 Taxi / BMTA",
+        "sourceDate": "2025-09-08",
+        "needsReview": false
+      },
+      {
+        "title": "DMK SRT 深红线",
+        "body": "到 Krung Thep Aphiwat 中央站约 20 分钟换 MRT，票价约 33–42 铢（来源有矛盾，以售票机为准）。",
+        "source": "SRTET 官方",
+        "sourceDate": "2026-08-04",
+        "needsReview": true
+      },
+      {
+        "title": "Grab / Bolt",
+        "body": "Grab：BKK 官方指定上车点 1 层 Gate 4 外侧车道（24 小时），DMK 在 T1 一层 Gate 6 Ride Hailing 区（以 App 内引导为准）；Bolt 可用但无官方柜台。",
+        "source": "AOT Grab 页 / Grab 官方机场页",
+        "sourceDate": "2025-09-08",
+        "needsReview": false
+      },
+      {
+        "title": "防宰与深夜到达",
+        "body": "只认取票机队列、保留排队票，上车确认「By meter」，记下车牌与司机执照；行李费官方上限 >26 寸 21 铢/件。深夜轨道全部停运（ARL 末班 24:00），只能官方出租车或 Grab，拒打表喊价更常见，机场 24 小时开放可等首班。纠纷打旅游警察 1155（中文服务）。",
+        "source": "中国领事服务网·泰国安全防范",
+        "sourceDate": "2026-09-27 调研",
+        "needsReview": false
+      }
+    ],
+    "customs": [
+      {
+        "title": "电子烟：完全违禁",
+        "body": "携带、使用、进出口、销售均违法；携带/使用最高 5 年监禁或货值 4 倍罚款，2026 年泰国持续严打。",
+        "source": "驻泰使馆提醒 / 外交部赴泰提醒",
+        "sourceDate": "2025-04-11",
+        "needsReview": false
+      },
+      {
+        "title": "烟酒免税额度",
+        "body": "每人 200 支香烟（1 条）或 250 克烟草 + 1 升酒（含机场免税店购买）；多人同行须各自携带，合并放一人行李视为超量，超量补税罚款。",
+        "source": "中国领事服务网·泰国 / 驻泰使馆",
+        "sourceDate": "2024-02",
+        "needsReview": false
+      },
+      {
+        "title": "现金申报",
+        "body": "入境携带外币现钞超等值 2 万美元须申报；泰铢现钞出境上限 5 万铢（前往缅/老/柬/马/越邻国 50 万铢）。",
+        "source": "Vision Thai（媒体汇总）",
+        "sourceDate": "2026-06-17",
+        "needsReview": true
+      },
+      {
+        "title": "大麻：碰不得",
+        "body": "在泰吸食大麻，回国后验出等同国内吸毒、受法律处罚；携带/夹带大麻或制品入境中国属刑事犯罪；注意食品包装上的大麻叶/THC/CBD 标志。",
+        "source": "驻泰使馆提醒（澎湃）",
+        "sourceDate": "2024-01-30",
+        "needsReview": false
+      },
+      {
+        "title": "处方药",
+        "body": "个人合理自用量、保留原包装、建议备医生处方（英文）备查；含麻醉/精神类成分的药品管制严格，携带前查询泰国食药监规定。",
+        "source": "产品调研·原则性表述",
+        "sourceDate": "2026-09-27",
+        "needsReview": true
+      },
+      {
+        "title": "无人机 / 生鲜肉制品",
+        "body": "无人机需提前向泰国政府报备；生肉、香肠等肉制品及新鲜水果禁止携带入境。",
+        "source": "外交部赴泰提醒 / 驻泰使馆春节提醒",
+        "sourceDate": "2025-04-11",
+        "needsReview": false
+      },
+      {
+        "title": "佛像文物与其他违禁品",
+        "body": "佛像、文物、象牙等出境受管制；麻醉剂、毒品、色情物品、假冒盗版商品严禁携带。",
+        "source": "泰国海关规定（细则待复核）",
+        "sourceDate": "2026-09-27",
+        "needsReview": true
+      }
+    ],
+    "tax": [
+      {
+        "title": "退税条件",
+        "body": "非泰籍、乘飞机从国际机场离境；同一人同一天同一店购物满 2,000 铢（含税），商店须有「VAT REFUND FOR TOURISTS」蓝色标志。旧口径「总额满 5,000 铢」已过时。",
+        "source": "泰国税务厅 RD 条件页",
+        "sourceDate": "2024-06-24",
+        "needsReview": false
+      },
+      {
+        "title": "P.P.10 退税单",
+        "body": "购物当天店内出示护照原件开具（或 e-P.P.10）+ 原始税务发票，当场核对护照号；事后不可补开。",
+        "source": "泰国税务厅 RD 条件页",
+        "sourceDate": "2024-06-24",
+        "needsReview": false
+      },
+      {
+        "title": "离境流程（2023-12 新制）",
+        "body": "全部 P.P.10 合计 <2 万铢/人：免海关查验，直接值机过边检后到退税柜台；≥2 万铢/人：值机前先至 Customs Inspection 柜台查验盖章再托运。",
+        "source": "素万那普机场官网 / PRD 通告",
+        "sourceDate": "2025-09-12",
+        "needsReview": false
+      },
+      {
+        "title": "贵重物品随身携带",
+        "body": "奢侈品（珠宝/金饰/手表/眼镜/手机/笔电/手袋等）单价 ≥4 万铢/件，及任何单价 ≥10 万铢/件商品，须手提过边检接受二次查验，不可托运。",
+        "source": "素万那普机场官网",
+        "sourceDate": "2025-09-12",
+        "needsReview": false
+      },
+      {
+        "title": "退税率",
+        "body": "VAT 7% 但按固定阶梯表退，实际到手约 4%–6.1%；现金退税每笔扣 100 铢手续费（多来源一致，官方页未见原文）。",
+        "source": "泰国旅游局官方页 / fiscal-requirements.com",
+        "sourceDate": "2025-11",
+        "needsReview": true
+      },
+      {
+        "title": "时限与领取",
+        "body": "商品购买之日起 60 天内随本人带离泰国；退税 ≤3 万铢可选现金/汇票/信用卡转账/VRT App 退支付宝或微信，>3 万铢仅转账。可办理机场 10 个：素万那普、廊曼、清迈、普吉、合艾、乌塔堡、甲米、苏梅、素叻他尼、清莱。",
+        "source": "素万那普机场官网 / 泰国税务厅 RD",
+        "sourceDate": "2025-09-12",
+        "needsReview": false
+      }
+    ]
+  },
+  "rescue": {
+    "note": "泰文翻译为机器初稿，发布前需人工复核；内容来源与更新日期：2026-09 依据产品计划 3.3",
+    "scenarios": [
+      {
+        "id": "customs",
+        "title": "海关/边检",
+        "subtitle": "被问住、被带进二次检查怎么办",
+        "steps": [
+          "保持冷静，只回答被问到的问题；主动递上护照、返程机票订单和酒店订单（建议出发前打印纸质版）。",
+          "沟通困难时要求中文翻译协助，或请工作人员联系泰国旅游警察 1155（有中文服务）。",
+          "若被示意拒绝入境，主动提出「自愿撤回入境申请」——可避免留下拒入与遣返记录。"
+        ],
+        "phrases": [
+          { "id": "rescue_customs_1", "zh": "我要求中文翻译。", "en": "I request a Chinese interpreter.", "local": "ขอล่ามภาษาจีนครับ/ค่ะ" },
+          { "id": "rescue_customs_2", "zh": "我来旅游，住在这家酒店。", "en": "I am here for tourism. I stay at this hotel.", "local": "ฉันมาเที่ยว พักที่โรงแรมนี้" },
+          { "id": "rescue_customs_3", "zh": "我自愿撤回入境申请。", "en": "I would like to voluntarily withdraw my application for admission.", "local": "ฉันขอถอนคำขอเข้าประเทศโดยสมัครใจ" }
+        ],
+        "evidence": [
+          "记录官员编号、柜台号、时间与事由",
+          "保留登机牌与护照盖章页照片",
+          "如被二次检查，记下房间/区域位置与经过",
+          "如自愿撤回入境申请，保留相关书面记录"
+        ]
+      },
+      {
+        "id": "taxi",
+        "title": "打车",
+        "subtitle": "拒打表、绕路、被宰",
+        "steps": [
+          "优先用 Grab / Bolt 叫车，或在商场、机场官方出租车站排队；曼谷路边出租车坚持 by meter（打表），不打表就换一辆。",
+          "上车前拍下车型与车牌，核对司机信息，把行程截图发给同行人。",
+          "发现绕路或拒打表：保存行程轨迹截图与支付记录；下车后可向陆路交通厅热线 1584 或平台客服投诉。"
+        ],
+        "phrases": [
+          { "id": "rescue_taxi_1", "zh": "请打表。", "en": "Please use the meter.", "local": "กรุณาใช้มิเตอร์" },
+          { "id": "rescue_taxi_2", "zh": "请按导航路线走。", "en": "Please follow the GPS route.", "local": "กรุณาขับตามเส้นทางในแผนที่" },
+          { "id": "rescue_taxi_3", "zh": "这不是地图上的路线，请在这里停车。", "en": "This is not the route on the map. Please stop here.", "local": "นี่ไม่ใช่เส้นทางในแผนที่ กรุณาจอดตรงนี้" },
+          { "id": "rescue_taxi_4", "zh": "请给我收据。", "en": "Receipt, please.", "local": "ขอใบเสร็จครับ/ค่ะ" }
+        ],
+        "evidence": [
+          "车牌照片（车外牌照 + 车内营运证）",
+          "行程轨迹截图（Grab/Bolt 订单页或地图轨迹）",
+          "支付记录或收据照片",
+          "司机姓名/工号（如有）"
+        ]
+      },
+      {
+        "id": "hospital",
+        "title": "医院/药店",
+        "subtitle": "看病、买药、保险理赔",
+        "steps": [
+          "先拨打旅行保险的救援电话报备再就诊；曼谷大型私立医院（如 Bangkok Hospital、Bumrungrad）有中文翻译但费用较高。",
+          "出示过敏/慢病卡与护照；药店认准绿色「ร้านยา」标识，处方药需药剂师在场才能购买。",
+          "保留全部收据、诊断证明与处方原件——这是保险理赔的硬材料。"
+        ],
+        "phrases": [
+          { "id": "rescue_hospital_1", "zh": "我对青霉素过敏。", "en": "I am allergic to penicillin.", "local": "ฉันแพ้ยาเพนิซิลลิน" },
+          { "id": "rescue_hospital_2", "zh": "我需要看医生，我说中文。", "en": "I need a doctor. I speak Chinese.", "local": "ฉันต้องการพบหมอ ฉันพูดภาษาจีน" },
+          { "id": "rescue_hospital_3", "zh": "请给我诊断证明和收据，保险理赔用。", "en": "Please give me a medical certificate and receipt for my insurance claim.", "local": "ขอใบรับรองแพทย์และใบเสร็จสำหรับเบิกประกัน" },
+          { "id": "rescue_hospital_4", "zh": "有止痛药/退烧药吗？", "en": "Do you have painkillers or fever medicine?", "local": "มียาแก้ปวดหรือยาลดไข้ไหม" }
+        ],
+        "evidence": [
+          "诊断证明与处方原件",
+          "全部收据与付款凭证",
+          "药品包装与标签照片",
+          "记录就诊医院名称、科室与医生姓名"
+        ]
+      },
+      {
+        "id": "police",
+        "title": "报警/证件丢失",
+        "subtitle": "护照丢失、被盗被抢",
+        "steps": [
+          "先到就近警察局报案并拿到报案回执（保险理赔与补办旅行证的硬前提）；语言不通可拨旅游警察 1155（中文服务）协助。",
+          "联系中国驻泰国使馆领保 +66-2-245-7010（驻清迈总领馆 +66-81-882-3283），预约补办旅行证。",
+          "挂失银行卡与手机卡；提前存好的护照首页/签证页照片可明显加快补办流程。"
+        ],
+        "phrases": [
+          { "id": "rescue_police_1", "zh": "我的护照丢了，我需要报案证明。", "en": "I lost my passport. I need a police report.", "local": "ฉันทำหนังสือเดินทางหาย ฉันต้องการใบรายงานของตำรวจ" },
+          { "id": "rescue_police_2", "zh": "我被偷了/被抢了。", "en": "I was robbed.", "local": "ฉันถูกปล้น" },
+          { "id": "rescue_police_3", "zh": "请帮我联系中国大使馆。", "en": "Please help me contact the Chinese Embassy.", "local": "กรุณาช่วยติดต่อสถานทูตจีนให้ฉันด้วย" }
+        ],
+        "evidence": [
+          "报案回执编号与警局名称、地址",
+          "护照首页/签证页照片存档（补办旅行证用）",
+          "银行挂失的时间与客服工单号",
+          "使领馆预约确认截图"
+        ]
+      },
+      {
+        "id": "hotel",
+        "title": "酒店投诉",
+        "subtitle": "到店无房、房型不符、卫生问题",
+        "steps": [
+          "现场先冷静沟通，要求换房/升房；对房间问题拍照录像，保留预订确认单。",
+          "协商不成，联系预订平台客服介入，保留订单号与全部沟通记录。",
+          "离店后写结构化差评（时间、房型、问题、诉求）；争议金额可走 OTA 先行赔付流程。"
+        ],
+        "phrases": [
+          { "id": "rescue_hotel_1", "zh": "我订的是无烟房，这个房间有烟味。", "en": "I booked a non-smoking room. This room smells of smoke.", "local": "ฉันจองห้องปลอดบุหรี่ แต่ห้องนี้มีกลิ่นบุหรี่" },
+          { "id": "rescue_hotel_2", "zh": "我的预订是两晚含早餐，这是确认单。", "en": "My booking is two nights with breakfast. Here is the confirmation.", "local": "การจองของฉันคือสองคืนรวมอาหารเช้า นี่คือใบยืนยัน" },
+          { "id": "rescue_hotel_3", "zh": "请帮我换一间房。", "en": "Please change my room.", "local": "กรุณาเปลี่ยนห้องให้ฉัน" },
+          { "id": "rescue_hotel_4", "zh": "请让经理过来。", "en": "Please call the manager.", "local": "กรุณาเรียกผู้จัดการมา" }
+        ],
+        "evidence": [
+          "房间问题照片/视频（带上时间）",
+          "预订确认单截图（订单号、房型、含早等）",
+          "与前台/平台客服的沟通记录截图",
+          "额外支付费用的小票"
+        ]
+      },
+      {
+        "id": "tax_refund",
+        "title": "退税",
+        "subtitle": "VAT Refund 流程与材料",
+        "steps": [
+          "购物时确认店铺贴有「VAT Refund for Tourists」标识：同日同店满 2,000 泰铢可开 P.P.10 退税单，需出示护照。",
+          "离境当天先办海关核验盖章再托运（贵重物品随身备查），然后到机场 VAT Refund 柜台办理。",
+          "选择退税方式（现金/信用卡），现金退税有手续费；退税单自开具之日起 60 天内有效，别误机。"
+        ],
+        "phrases": [
+          { "id": "rescue_tax_1", "zh": "请开退税单（P.P.10）。", "en": "Tax refund, please. I need the P.P.10 form.", "local": "ขอใบขอคืนภาษี (P.P.10) ครับ/ค่ะ" },
+          { "id": "rescue_tax_2", "zh": "这件商品可以退税吗？", "en": "Is this item eligible for a tax refund?", "local": "สินค้านี้ขอคืนภาษีได้ไหม" },
+          { "id": "rescue_tax_3", "zh": "我选择退到信用卡。", "en": "I would like the refund to my credit card.", "local": "ฉันขอเงินคืนเข้าบัตรเครดิต" }
+        ],
+        "evidence": [
+          "P.P.10 退税单原件拍照存档",
+          "购物小票原件",
+          "海关盖章后的单据照片",
+          "记下退税截止日期提醒（开具之日起 60 天内）"
+        ]
+      }
+    ]
+  },
+  "sos": {
+    "contactSource": "来源：中国驻泰国使馆等官方渠道，2025-07 核对",
+    "contacts": [
+      { "name": "泰国报警", "number": "191", "note": "全国通用报警电话" },
+      { "name": "医疗急救", "number": "1669", "note": "全国医疗急救" },
+      { "name": "火警", "number": "199", "note": "全国火警" },
+      { "name": "旅游警察热线", "number": "1155", "note": "含中文服务" },
+      { "name": "交通事故报警", "number": "197", "note": "交通事故专线" },
+      { "name": "外交部全球领保热线", "number": "+86-10-12308", "note": "备用 +86-10-65612308" },
+      { "name": "中国驻泰国使馆领保", "number": "+66-2-245-7010", "note": "曼谷" },
+      { "name": "中国驻清迈总领馆领保", "number": "+66-81-882-3283", "note": "泰北地区" }
+    ],
+    "phrases": [
+      { "id": "sos_help", "zh": "救命！请帮帮我。", "en": "Help! Please help me.", "local": "ช่วยด้วย! ช่วยฉันด้วย" },
+      { "id": "sos_police", "zh": "请帮我报警。", "en": "Please call the police for me.", "local": "กรุณาเรียกตำรวจให้ฉัน" },
+      { "id": "sos_medical", "zh": "我需要救护车。", "en": "I need an ambulance.", "local": "ฉันต้องการรถพยาบาล" },
+      { "id": "sos_lost", "zh": "我迷路了，请带我去这个地址。", "en": "I am lost. Please take me to this address.", "local": "ฉันหลงทาง กรุณาพาฉันไปที่อยู่นี้" }
+    ]
+  }
+}
