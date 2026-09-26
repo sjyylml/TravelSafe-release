@@ -4,18 +4,18 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.3.0 最新）
+## 扫码下载（v0.3.1 最新）
 
-![下载二维码](qr-v0.3.0.png)
+![下载二维码](qr-v0.3.1.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.3.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.3.0/TravelSafe-v0.3.0.apk)
+- 直链：[TravelSafe-v0.3.1.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.3.1/TravelSafe-v0.3.1.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
 
-1. 扫码或点直链下载 APK（约 18 MB）
+1. 扫码或点直链下载 APK（约 60 MB，含离线中文识别模型）
 2. 打开下载的文件，系统提示「未知来源」时选择**允许本次安装**
 3. 微信内扫码如无法直接下载，请点右上角「···」→ 用浏览器打开
 4. 从旧版升级：直接覆盖安装即可
@@ -24,7 +24,13 @@
 
 ## 版本内容
 
-### v0.3.0（当前）
+### v0.3.1（当前）
+
+- 行程截图识别：选 1–3 张机票/行程单/酒店截图，本机 OCR 自动识别日期、航班、城市、酒店并预填表单（截图仅在本机识别，不会上传）
+- 风险包入口改引导页
+- APK 约 60MB：离线中文识别模型打包在 App 内
+
+### v0.3.0
 
 - 行前风险包（泰国）：填行程 → 免费预览前 3 条 → 解锁 → 一页式风险包（入境材料/过境中转/机场交通/紧急电话/禁带物品/退税，标注官方来源与更新日期）
 - 出行就绪分：首页就绪度卡片 + 8 项待办清单，TDAC 填报窗口自动计算
