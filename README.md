@@ -4,13 +4,13 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.3.1 最新）
+## 扫码下载（v0.3.2 最新）
 
-![下载二维码](qr-v0.3.1.png)
+![下载二维码](qr-v0.3.2.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.3.1.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.3.1/TravelSafe-v0.3.1.apk)
+- 直链：[TravelSafe-v0.3.2.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.3.2/TravelSafe-v0.3.2.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
@@ -24,7 +24,14 @@
 
 ## 版本内容
 
-### v0.3.1（当前）
+### v0.3.2（当前）
+
+- **全部内容与功能永久免费**（转向 B 端导流佣金模式）
+- 新增「泰国出行须知」通用版：不用填任何信息，打开即看六模块全版
+- 专属风险包：截图识别行程 → 30 秒生成你的一页纸 → PDF 转发同行人
+- 保险入口占位（合作接入中）
+
+### v0.3.1
 
 - 行程截图识别：选 1–3 张机票/行程单/酒店截图，本机 OCR 自动识别日期、航班、城市、酒店并预填表单（截图仅在本机识别，不会上传）
 - 风险包入口改引导页
