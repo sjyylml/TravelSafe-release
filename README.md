@@ -4,27 +4,33 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.3.2 最新）
+## 扫码下载（v0.4.0 最新）
 
-![下载二维码](qr-v0.3.2.png)
+![下载二维码](qr-v0.4.0.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.3.2.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.3.2/TravelSafe-v0.3.2.apk)
+- 直链：[TravelSafe-v0.4.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.4.0/TravelSafe-v0.4.0.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
 
-1. 扫码或点直链下载 APK（约 60 MB，含离线中文识别模型）
+1. 扫码或点直链下载 APK（约 15 MB）
 2. 打开下载的文件，系统提示「未知来源」时选择**允许本次安装**
 3. 微信内扫码如无法直接下载，请点右上角「···」→ 用浏览器打开
 4. 从旧版升级：直接覆盖安装即可
 
-要求：Android 8.0（API 26）及以上。当前为 debug 签名测试版，正式上架前会更换签名。
+要求：Android 8.0（API 26）及以上，arm64 机型（2017 年后的主流手机均可，模拟器不可安装）。当前为 debug 签名测试版，正式上架前会更换签名。
 
 ## 版本内容
 
-### v0.3.2（当前）
+### v0.4.0（当前）
+
+- 安装包 60MB → **15MB**
+- 截图识别升级：支持「北京→曼谷」「PEK-BKK」等航线写法，多段行程自动拼接；词典扩充（国内 32 城 + 火车站名 + 泰国 10 城）
+- 多目的地：支持泰国多城市 + 其他国家行程（非泰国部分内容筹备中，会明确标注）
+
+### v0.3.2
 
 - **全部内容与功能永久免费**（转向 B 端导流佣金模式）
 - 新增「泰国出行须知」通用版：不用填任何信息，打开即看六模块全版
