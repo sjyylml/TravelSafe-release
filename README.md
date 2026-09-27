@@ -4,13 +4,13 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.9.1 最新）
+## 扫码下载（v0.9.2 最新）
 
-![下载二维码](qr/qr-v0.9.1.png)
+![下载二维码](qr/qr-v0.9.2.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.9.1.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.9.1/TravelSafe-v0.9.1.apk)
+- 直链：[TravelSafe-v0.9.2.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.9.2/TravelSafe-v0.9.2.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
@@ -24,7 +24,11 @@
 
 ## 版本内容
 
-### v0.9.1（当前）
+### v0.9.2（当前，修复版）
+
+- 修复切换目的地后点「行前风险包」闪退（建议所有人更新）
+
+### v0.9.1
 
 - 禁带物品查询：搜物品名直接给判定（可带/限量/禁止/申报）+ 依据
 - 自定义短句卡：粘贴翻译结果 → 大字卡 + 朗读
