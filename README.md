@@ -4,13 +4,13 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.6.1 最新）
+## 扫码下载（v0.6.2 最新）
 
-![下载二维码](qr/qr-v0.6.1.png)
+![下载二维码](qr/qr-v0.6.2.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.6.1.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.6.1/TravelSafe-v0.6.1.apk)
+- 直链：[TravelSafe-v0.6.2.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.6.2/TravelSafe-v0.6.2.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
@@ -24,7 +24,11 @@
 
 ## 版本内容
 
-### v0.6.1（当前）
+### v0.6.2（当前）
+
+- 修复行程时间轴未按真实日期排序的问题（旧数据自动纠正）
+
+### v0.6.1
 
 - 修复部分手机语音播放无声：自动重试本机语音引擎、语音包缺失给出安装引导、失败明确提示原因
 
