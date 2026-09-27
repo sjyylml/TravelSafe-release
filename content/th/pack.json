@@ -1,8 +1,8 @@
 {
   "destination": "th",
-  "version": "2026.09.28",
+  "version": "2026.09.28.2",
   "updatedAt": "2026-09-27",
-  "revisions": 40,
+  "revisions": 45,
   "moduleTitles": {
     "entry": "入境材料清单",
     "transit": "过境中转提醒",
@@ -653,6 +653,186 @@
         "zh": "我迷路了，请带我去这个地址。",
         "en": "I am lost. Please take me to this address.",
         "local": "ฉันหลงทาง กรุณาพาฉันไปที่อยู่นี้"
+      }
+    ]
+  },
+  "customsIndex": {
+    "customsLinks": [
+      {
+        "label": "泰国海关",
+        "url": "https://www.customs.go.th/"
+      }
+    ],
+    "items": [
+      {
+        "names": [
+          "电子烟",
+          "电子雾化器",
+          "烟弹",
+          "vape",
+          "e-cigarette"
+        ],
+        "verdict": "banned",
+        "note": "携带、使用、进出口、销售均违法；最高 5 年监禁或货值 4 倍罚款，2026 年持续严打。",
+        "source": "驻泰使馆提醒 / 外交部赴泰提醒",
+        "sourceDate": "2025-04-11",
+        "sourceUrl": "https://www.fmprc.gov.cn/wjbzwfwpt/kzx/tzgg/202504/t20250411_11592910.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "香烟",
+          "烟",
+          "卷烟",
+          "烟草",
+          "cigarette"
+        ],
+        "verdict": "limit",
+        "note": "免税每人 200 支（1 条）或 250 克烟草；多人同行须各自携带，合并放一人行李视为超量。",
+        "source": "中国领事服务网·泰国 / 驻泰使馆",
+        "sourceDate": "2024-02",
+        "sourceUrl": "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/tg_647570/rjjl_647580/",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "酒",
+          "白酒",
+          "红酒",
+          "啤酒",
+          "烈酒",
+          "alcohol",
+          "liquor"
+        ],
+        "verdict": "limit",
+        "note": "免税每人 1 升酒（含机场免税店购买），超量补税罚款。",
+        "source": "中国领事服务网·泰国 / 驻泰使馆",
+        "sourceDate": "2024-02",
+        "sourceUrl": "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/tg_647570/rjjl_647580/",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "现金",
+          "美元",
+          "外币",
+          "人民币",
+          "cash"
+        ],
+        "verdict": "declare",
+        "note": "入境携带外币现钞超等值 2 万美元须申报（媒体汇总口径，官方原文待复核）。",
+        "source": "Vision Thai（媒体汇总）",
+        "sourceDate": "2026-06-17",
+        "sourceUrl": "https://visionthai.net/zh-hans/article/thailand-entry-guide-2026/",
+        "needsReview": true
+      },
+      {
+        "names": [
+          "药",
+          "药品",
+          "处方药",
+          "感冒药",
+          "中药",
+          "甘草片",
+          "medicine"
+        ],
+        "verdict": "limit",
+        "note": "个人合理自用量、保留原包装、建议备英文处方；含麻醉/精神类成分（如可待因）管制严格。",
+        "source": "产品调研·原则性表述",
+        "sourceDate": "2026-09-27",
+        "sourceUrl": "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/tg_647570/rjjl_647580/",
+        "needsReview": true
+      },
+      {
+        "names": [
+          "大麻",
+          "大麻食品",
+          "大麻叶",
+          "thc",
+          "cbd"
+        ],
+        "verdict": "banned",
+        "note": "在泰吸食回国验出按国内吸毒处罚；携带/夹带入境中国属刑事犯罪；注意食品包装大麻叶/THC/CBD 标志。",
+        "source": "驻泰使馆提醒（澎湃）",
+        "sourceDate": "2024-01-30",
+        "sourceUrl": "https://m.thepaper.cn/newsDetail_forward_26204795",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "无人机",
+          "航拍",
+          "drone",
+          "dji",
+          "大疆"
+        ],
+        "verdict": "declare",
+        "note": "需提前向泰国政府报备，未报备可能被没收。",
+        "source": "外交部赴泰提醒",
+        "sourceDate": "2025-04-11",
+        "sourceUrl": "https://www.fmprc.gov.cn/wjbzwfwpt/kzx/tzgg/202504/t20250411_11592910.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "水果",
+          "新鲜水果",
+          "肉",
+          "香肠",
+          "肉制品",
+          "生鲜",
+          "腊肉"
+        ],
+        "verdict": "banned",
+        "note": "生肉、香肠等肉制品及新鲜水果禁止携带入境泰国。",
+        "source": "驻泰使馆春节提醒",
+        "sourceDate": "2024-02",
+        "sourceUrl": "https://share.app3.jyb.cn/news/d3e7cf3182e89b567dec38359a3616fae",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "泰铢",
+          "泰铢现钞",
+          "baht"
+        ],
+        "verdict": "limit",
+        "note": "泰铢现钞出境上限 5 万铢（前往缅/老/柬/马/越邻国 50 万铢）（官方原文待复核）。",
+        "source": "Vision Thai（媒体汇总）",
+        "sourceDate": "2026-06-17",
+        "sourceUrl": "https://visionthai.net/zh-hans/article/thailand-entry-guide-2026/",
+        "needsReview": true
+      },
+      {
+        "names": [
+          "假包",
+          "a货",
+          "盗版",
+          "假货",
+          "高仿",
+          "counterfeit"
+        ],
+        "verdict": "banned",
+        "note": "假冒盗版商品严禁携带；麻醉剂、毒品、色情物品同属严禁。",
+        "source": "泰国海关规定",
+        "sourceDate": "2026-09-27",
+        "sourceUrl": "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/tg_647570/rjjl_647580/",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "佛牌",
+          "佛像",
+          "文物",
+          "象牙",
+          "古董"
+        ],
+        "verdict": "limit",
+        "note": "佛像、文物、象牙等出境受管制，购买前先确认能否带离（细则待复核）。",
+        "source": "泰国海关规定（细则待复核）",
+        "sourceDate": "2026-09-27",
+        "sourceUrl": "https://cs.mfa.gov.cn/zggmcg/ljmdd/yz_645708/tg_647570/rjjl_647580/",
+        "needsReview": true
       }
     ]
   }

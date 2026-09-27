@@ -1,8 +1,8 @@
 {
   "destination": "hkmo",
-  "version": "2026.09.28",
+  "version": "2026.09.28.2",
   "updatedAt": "2026-09-27",
-  "revisions": 42,
+  "revisions": 46,
   "moduleTitles": {
     "entry": "出入境证件与签注",
     "transit": "口岸与过关",
@@ -670,6 +670,190 @@
         "zh": "我迷路了，请带我去这个地址。",
         "en": "I am lost. Please take me to this address.",
         "local": "我蕩失路，請帶我去呢個地址。"
+      }
+    ]
+  },
+  "customsIndex": {
+    "customsLinks": [
+      {
+        "label": "香港海关",
+        "url": "https://www.customs.gov.hk/"
+      },
+      {
+        "label": "澳门海关",
+        "url": "https://www.customs.gov.mo/"
+      }
+    ],
+    "items": [
+      {
+        "names": [
+          "香烟",
+          "烟",
+          "卷烟",
+          "cigarette"
+        ],
+        "verdict": "limit",
+        "note": "入香港/澳门免税均仅 19 支！旧资料「200 支」已过时，超量补税罚款。",
+        "source": "香港海关 / 澳门海关",
+        "sourceDate": "2026-09-15",
+        "sourceUrl": "https://www.customs.gov.hk/sc/service-enforcement-information/trade-facilitation/dutiable-commodities/index.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "奶粉",
+          "配方粉",
+          "婴儿奶粉",
+          "milk powder"
+        ],
+        "verdict": "limit",
+        "note": "每人（16 岁+）限 1.8kg（约 2 罐）离境，且仅限 24 小时内首次离境者；违者最高罚 50 万港元+监禁 2 年。",
+        "source": "香港环境及生态局 FAQ",
+        "sourceDate": "2025-03-28",
+        "sourceUrl": "https://www.eeb.gov.hk/food/cn/powderedformula/faq.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "酒",
+          "烈酒",
+          "白酒",
+          "红酒",
+          "威士忌",
+          "whisky"
+        ],
+        "verdict": "limit",
+        "note": "免税每人 1 升 >30% 烈酒。",
+        "source": "香港海关 / 澳门海关",
+        "sourceDate": "2026-09-15",
+        "sourceUrl": "https://www.customs.gov.hk/sc/service-enforcement-information/trade-facilitation/dutiable-commodities/index.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "雪茄",
+          "烟草",
+          "烟丝",
+          "cigar"
+        ],
+        "verdict": "limit",
+        "note": "1 支 ≤25g 雪茄或 25g 烟草（与 19 支香烟同一额度体系）。",
+        "source": "香港海关 / 澳门海关",
+        "sourceDate": "2026-09-15",
+        "sourceUrl": "https://www.customs.gov.hk/sc/service-enforcement-information/trade-facilitation/dutiable-commodities/index.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "现金",
+          "港元",
+          "港币",
+          "澳门元",
+          "人民币",
+          "cash"
+        ],
+        "verdict": "declare",
+        "note": "入香港超 12 万港元、入澳门超 12 万澳门元须申报；内地侧人民币现钞限 2 万、外币 5000 美元以内免证。",
+        "source": "香港保安局禁毒处 / 澳门海关 / 海关总署",
+        "sourceDate": "2026-05-27",
+        "sourceUrl": "https://www.nd.gov.hk/tc/cross-boundary_movement.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "药",
+          "药品",
+          "处方药",
+          "咳水",
+          "可待因",
+          "抗生素",
+          "medicine"
+        ],
+        "verdict": "limit",
+        "note": "香港合理自用量豁免（危险药物/抗生素/第一部毒药须处方或许可证）；澳门麻醉/精神类 ≤30 日量、其他 ≤90 日量，备医生证明。",
+        "source": "香港海关 / 澳门海关",
+        "sourceDate": "2025-10-16",
+        "sourceUrl": "https://www.customs.gov.hk/hcms/filemanager/sc/content_185/Smart_Guide_to_Passenger_Clearance_SC.pdf",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "肉",
+          "鲜肉",
+          "家禽",
+          "鸡蛋",
+          "蛋",
+          "肉制品",
+          "腊肠"
+        ],
+        "verdict": "banned",
+        "note": "入香港：肉/家禽/蛋须卫生证明否则违法（最高罚 5 万+监禁 6 月）；入澳门：肉蛋奶原则上个人不能带。",
+        "source": "香港食安中心 / 澳门海关",
+        "sourceDate": "2026-09-18",
+        "sourceUrl": "https://www.cfs.gov.hk/tc_chi/import/import_ifc.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "水果",
+          "蔬菜",
+          "鲜果",
+          "青菜"
+        ],
+        "verdict": "limit",
+        "note": "入香港水果蔬菜可带；入澳门蔬果少量自用（合计 ≤5kg/日）。",
+        "source": "香港食安中心 / 澳门海关",
+        "sourceDate": "2026-09-18",
+        "sourceUrl": "https://www.cfs.gov.hk/tc_chi/import/import_ifc.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "手表",
+          "奢侈品",
+          "包包",
+          "名牌包",
+          "金饰",
+          "珠宝"
+        ],
+        "verdict": "declare",
+        "note": "回内地 12000 元免税额超出部分计税；≥1 万元手表行邮税 50%。",
+        "source": "财政部公告 2024 年第 7 号 / 南京海关",
+        "sourceDate": "2026-09-16",
+        "sourceUrl": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5232646/content.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "手机",
+          "电脑",
+          "笔记本",
+          "平板",
+          "iphone",
+          "相机"
+        ],
+        "verdict": "declare",
+        "note": "不可分割单件（手机/电脑/表）超 12000 元全额征税，无免税额扣除。",
+        "source": "财政部公告 2024 年第 7 号 / 南京海关",
+        "sourceDate": "2026-09-16",
+        "sourceUrl": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5232646/content.html",
+        "needsReview": false
+      },
+      {
+        "names": [
+          "化妆品",
+          "护肤品",
+          "香水",
+          "口红",
+          "sk2",
+          "神仙水"
+        ],
+        "verdict": "limit",
+        "note": "高档化妆品行邮税 50%（回内地超 12000 元免税额时适用）。",
+        "source": "财政部公告 2024 年第 7 号 / 南京海关",
+        "sourceDate": "2026-09-16",
+        "sourceUrl": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5232646/content.html",
+        "needsReview": false
       }
     ]
   }
