@@ -4,13 +4,13 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.5.0 最新）
+## 扫码下载（v0.6.0 最新）
 
-![下载二维码](qr-v0.5.0.png)
+![下载二维码](qr-v0.6.0.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.5.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.5.0/TravelSafe-v0.5.0.apk)
+- 直链：[TravelSafe-v0.6.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.6.0/TravelSafe-v0.6.0.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
@@ -24,7 +24,13 @@
 
 ## 版本内容
 
-### v0.5.0（当前）
+### v0.6.0（当前）
+
+- 行程时间轴：多段航班 + 酒店按日期排列，随时编辑；截图识别可多次追加（入口常驻）
+- 行程分享卡：一键生成时间轴图片，微信转发同行人
+- 旧行程数据自动迁移
+
+### v0.5.0
 
 - 内容热更新：规则修订不用重装 App，打开自动更新（只下载几 KB 内容文件，不上传任何数据）
 - 短句卡语音朗读：🔊 泰文朗读，打车/海关场景不用递手机也能让对方听到
