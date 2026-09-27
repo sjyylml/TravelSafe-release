@@ -1,8 +1,8 @@
 {
   "destination": "hkmo",
-  "version": "2026.09.27",
+  "version": "2026.09.28",
   "updatedAt": "2026-09-27",
-  "revisions": 40,
+  "revisions": 42,
   "moduleTitles": {
     "entry": "出入境证件与签注",
     "transit": "口岸与过关",
@@ -20,7 +20,9 @@
         "action": "办签注不用纠结 G/L：能办 G 签办 G 签，只能办 L 签也一样自己直接过关",
         "source": "NIA 服务指南 / 深圳政府在线",
         "sourceDate": "2023-07-31",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "2017 年 8 月起 L 签无需跟团、无需送关，与 G 签同样直接过关；2023-05-15 起 L 签全国通办。G 签限 59 个开放城市户籍/居住证居民。",
+        "sourceUrl": "https://www.nia.gov.cn/n741445/n741604/n1787214/c1790954/content.html"
       },
       {
         "title": "逗留 7 天红线",
@@ -28,7 +30,9 @@
         "action": "拿到入境小票立刻拍照存好，按上面的届满日安排回程",
         "source": "NIA 服务指南 / 澳门政府入口网 / 香港入境处 FAQ",
         "sourceDate": "2025-12-03",
-        "needsReview": true
+        "needsReview": true,
+        "detail": "7 天从入境翌日起算（媒体+热线核实，官方无原文，以入境标签/凭条上的届满日为准）。澳门逾期罚 500 澳门元/日；香港逾期最高罚 5 万港元+监禁 2 年。",
+        "sourceUrl": "https://www.immd.gov.hk/hks/faq/visit-transit.html"
       },
       {
         "title": "逾期后果很严重",
@@ -36,7 +40,9 @@
         "action": "宁可提前一天走，不要逾期一天",
         "source": "澳门政府入口网 / 香港入境处 FAQ",
         "sourceDate": "2026-07-07",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "澳门逾期罚 500 澳门元/日（上限 30 日），超 30 日或一年内重犯可驱逐+禁入；香港逾期最高罚 5 万港元+监禁 2 年。",
+        "sourceUrl": "https://www.gov.mo/zh-hans/services/ps-1477/ps-1477h/"
       },
       {
         "title": "办理时限与费用",
@@ -44,7 +50,9 @@
         "action": "急用找自助签注机，立等可取；办之前先查附近网点",
         "source": "NIA 服务指南 / NIA 问与答 / 广东省财政厅",
         "sourceDate": "2023-12-29",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "通行证 60 元/证（NIA 指南旧写 80 元为过时表述，按发改价格〔2019〕914 号实际 60 元），一次签注 15 元、二次 30 元；异地办理 20 日内。",
+        "sourceUrl": "http://czt.gd.gov.cn/gkmlpt/content/4/4324/post_4324192.html"
       },
       {
         "title": "换证红线",
@@ -52,7 +60,9 @@
         "action": "现在看通行证有效期：不足 6 个月先换证，别等签注被拒",
         "source": "NIA 服务指南 / NIA 10 项举措",
         "sourceDate": "2025-11-03",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "通行证有效期不足 6 个月或短于拟申请签注有效期时，须先换证再办签注；16 周岁以上换发补发 2025-11-20 起 50 城可全程网办。",
+        "sourceUrl": "https://www.nia.gov.cn/n897453/c1751138/content.html"
       },
       {
         "title": "儿童办证：监护人陪同",
@@ -60,7 +70,9 @@
         "action": "带娃出行：监护人陪同去办证，孩子证件 5 年就到期，别忘了换",
         "source": "NIA 服务指南",
         "sourceDate": "2021-02-23",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "未满 16 周岁须监护人陪同办理，儿童证件有效期 5 年（成人 10 年）；60 岁以上老人有办证绿色通道、可复用 5 年内旧照片免重拍。",
+        "sourceUrl": "https://www.nia.gov.cn/n794014/n794021/c1387121/content.html"
       },
       {
         "title": "护照过境 7 天（别滥用）",
@@ -68,7 +80,9 @@
         "action": "只是顺道玩就用通行证，别拿护照过境「假出国」",
         "source": "香港入境处 / 澳门治安警察局 FAQ",
         "sourceDate": "2026-06-02",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "经澳飞第三国：护照有效期须 >逗留期+90 天，且未实际飞外国的，30 天内第二次入境只给 2 天、第三次拒绝入境。",
+        "sourceUrl": "https://www.immd.gov.hk/hks/services/visas/overseas-chinese-entry-arrangement.html"
       },
       {
         "title": "全国通办，不用回户籍地",
@@ -76,7 +90,9 @@
         "action": "异地也能办：就近找出入境大厅或自助机",
         "source": "NIA 服务指南",
         "sourceDate": "2026-07",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "2019-04-01 起任一出入境窗口均可办理港澳通行证和签注；自助签注机立等可取（深圳等有 24 小时机）。",
+        "sourceUrl": "https://www.nia.gov.cn/n741445/n741604/n1787214/c1790954/content.html"
       },
       {
         "title": "大湾区多次签（如适用）",
@@ -84,7 +100,9 @@
         "action": "深圳/珠海居民记得选多次签，一签多行更划算",
         "source": "中国政府网",
         "sourceDate": "2024-11-29",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "深圳户籍/居住证赴港「一签多行」（2024-12-01 起）；珠海户籍赴澳「一周一行」、横琴「一签多行」（2025-01-01 起）。",
+        "sourceUrl": "https://www.gov.cn/zhengce/zhengceku/202411/content_6990072.htm"
       },
       {
         "title": "自助通道授权",
@@ -92,7 +110,9 @@
         "action": "办证时勾选指纹授权，过关走自助通道不排队",
         "source": "香港入境处 e-道 / 澳门治安警察局",
         "sourceDate": "2026-09-16",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港 e-道 2026-02-27 起登记放宽：24 个月内经机场访港 2 次可登记，免采指纹容貌识别；澳门侧年满 7 岁、身高 1.2 米+。",
+        "sourceUrl": "https://www.immd.gov.hk/hks/services/echannel_visitors.html"
       }
     ],
     "transit": [
@@ -101,42 +121,54 @@
         "body": "西九龙高铁一地两检最快（福田→西九龙 14 分钟 68 元）；罗湖接港铁东铁线客流最大；深圳湾适合南山/宝安；莲塘新口岸相对不挤；夜间只有皇岗（24 小时）。",
         "source": "深圳市口岸办",
         "sourceDate": "2026-09",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "西九龙高铁福田→西九龙 14 分钟 68 元、一地两检最快；罗湖 6:30–24:00 接东铁线客流最大；福田收关早（22:30）；夜间只有皇岗（24 小时）。",
+        "sourceUrl": "https://ka.sz.gov.cn/bmfw/katgfw/"
       },
       {
         "title": "珠海→澳门：口岸怎么选",
         "body": "青茂 24 小时全自助最快（仅支持电子通行证不支持护照）；横琴 24 小时、去路氹度假区首选；拱北最繁忙、节假日排队严重，挤就改青茂/横琴。",
         "source": "粤港澳大湾区门户网",
         "sourceDate": "2024-12-19",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "青茂 24 小时全自助最快（仅支持电子通行证不支持护照）；横琴 24 小时、去路氹度假区首选；拱北 6:00–次日 1:00 最繁忙，挤就改青茂/横琴。",
+        "sourceUrl": "https://www.cnbayarea.org.cn/homepage/ttdt/content/post_1275095.html"
       },
       {
         "title": "西九龙一地两检流程",
         "body": "同一车站完成两地通关：B1 检票（开车前 30 分钟停办）→ 安检 → B3 两地出入境，全程 30–45 分钟，最早可提前 90 分钟到；进入内地口岸区即适用内地法律。",
         "source": "港铁高铁官网 / 运输及物流局官方小册子",
         "sourceDate": "2026-09-27 调研",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "B1 检票（开车前 30 分钟停办）→ 安检 → B3 两地出入境，全程 30–45 分钟，最早可提前 90 分钟到；进入内地口岸区即适用内地法律。",
+        "sourceUrl": "https://www.highspeed.mtr.com.hk/tc/guide/process-departure.html"
       },
       {
         "title": "自助通道条件",
         "body": "内地侧：电子通行证+7 周岁以上+已留指纹；香港 e-道：办证时签署免登记声明授权指纹即可用；澳门侧：年满 7 岁、身高 1.2 米+、办证时已授权生物特征。",
         "source": "香港入境处 e-道 / 澳门治安警察局",
         "sourceDate": "2026-09-16",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "内地侧：电子通行证+7 周岁以上+已留指纹；香港 e-道：办证时签署免登记声明授权指纹即可用；澳门侧：年满 7 岁、身高 1.2 米+、办证时已授权生物特征。",
+        "sourceUrl": "https://www.immd.gov.hk/hks/services/echannel_visitors.html"
       },
       {
         "title": "高峰避峰",
         "body": "节假日深港日均 90 万+；拱北「早出（8–13 点去澳门）晚入（16–21 点回珠海）」；可用香港入境处 App 查口岸实时轮候；夜间只能走皇岗（深港）或横琴/青茂（珠澳）。",
         "source": "南方网 / 中新网",
         "sourceDate": "2026-08-10",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "节假日深港日均 90 万+、峰值破百万；拱北「早出（8–13 点去澳门）晚入（16–21 点回珠海）」；可用香港入境处 App 查口岸实时轮候。",
+        "sourceUrl": "https://news.southcn.com/node_a359076833/084a373981.shtml"
       },
       {
         "title": "入境小票别丢",
         "body": "无有效签注/签注过期会在边检被阻出境；逗留期以入境标签（landing slip）/澳门入境凭条上的届满日为准，须随身保存。",
         "source": "NIA 服务指南 / 香港入境处",
         "sourceDate": "2026-09-27 调研",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "逗留期以入境标签（landing slip）/澳门入境凭条上的届满日为准，须随身保存；无有效签注/签注过期会在边检被阻出境。",
+        "sourceUrl": "https://www.nia.gov.cn/n741445/n741604/n1787214/c1790954/content.html"
       }
     ],
     "airport": [
@@ -145,49 +177,63 @@
         "body": "机场快线→香港站（中环）约 24 分钟 120 港元（支持支付宝/微信乘车码同价）；A21 巴士 34.6 港元最省钱（经尖沙咀/旺角），A11 41.9 港元经中环/铜锣湾。",
         "source": "港铁官方票价页 / 政府新闻公报",
         "sourceDate": "2026-03",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "机场快线→香港站（中环）约 24 分钟 120 港元（2025-06-22 加价后，支持支付宝/微信乘车码同价）；A21 巴士 34.6 港元经尖沙咀/旺角、A11 41.9 港元经中环/铜锣湾最省钱。",
+        "sourceUrl": "https://www.mtr.com.hk/ch/customer/tickets/tf_index.html"
       },
       {
         "title": "香港出租车坐「红的」",
         "body": "市区出租车是红的：机场→中环约 365 港元、→尖沙咀约 265 港元（2022 旧费率，现价约高 5–8%）；落旗 29 元+行李每件 6 元+隧道费。",
         "source": "运输署",
         "sourceDate": "2022-07",
-        "needsReview": true
+        "needsReview": true,
+        "detail": "机场→中环约 365 港元、→尖沙咀约 265 港元（运输署 2022 旧费率，现价约高 5–8%，待复核）；落旗 29 元+行李每件 6 元+隧道费。",
+        "sourceUrl": "https://www.td.gov.hk/filemanager/sc/content_276/202207_airport.pdf"
       },
       {
         "title": "港铁公交直接扫码",
         "body": "支付宝「香港乘车码」、微信「搭车码」可直接坐港铁和大部分巴士（紫色闸机），短途游客可不办八达通；小童/长者优惠、小巴仍需八达通/现金。",
         "source": "港铁官方页 / 紫荆网",
         "sourceDate": "2025-07-13",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "支付宝「香港乘车码」、微信「搭车码」可直接坐港铁和大部分巴士（紫色闸机），短途游客可不办八达通；小童/长者优惠、茶餐厅小巴仍需八达通/现金。",
+        "sourceUrl": "https://www.mtr.com.hk/ch/customer/tickets/tf_index.html"
       },
       {
         "title": "澳门发财车：免费穿梭巴士",
         "body": "各大度假村在关闸/横琴/大桥口岸/码头/机场均有免费穿梭巴士，不需住客身份；去氹仔酒店群在横琴口岸/氹仔码头坐车，半岛酒店在关闸/港澳码头（班次以各酒店为准）。",
         "source": "Trip.com 发财车路线",
         "sourceDate": "2026-05",
-        "needsReview": true
+        "needsReview": true,
+        "detail": "各大度假村在关闸/横琴/大桥口岸/码头/机场均有免费穿梭巴士，不需住客身份；去氹仔在横琴口岸/氹仔码头坐车，半岛酒店在关闸/港澳码头（班次以各酒店为准，待复核）。",
+        "sourceUrl": "https://hk.trip.com/guide/transport/澳門發財車路線.html"
       },
       {
         "title": "澳门公交与的士",
         "body": "公交 6 澳门元/程（2024 起支持内地支付宝/微信乘车码）；的士起步 21 元+每 220 米 2 元，机场/横琴/大桥口岸上车加 8 元为合法附加费；拒载议价违法，记车牌投诉 +853 8866 6363。",
         "source": "澳门特区政府",
         "sourceDate": "2024-02-08",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "的士起步 21 元（首 1600 米）+每 220 米 2 元，机场/横琴/大桥口岸上车加 8 元为合法附加费；拒载议价违法，记车牌投诉 +853 8866 6363。",
+        "sourceUrl": "https://www.gov.mo/zh-hant/news/1043423/"
       },
       {
         "title": "港澳之间怎么往返",
         "body": "金巴 24 小时最便宜：日间 65 元、夜间 70 元，车程约 40 分钟；喷射飞航约 60 分钟，日航 194–242 港元（媒体整理，以官网为准）。",
         "source": "港珠澳大桥官网 / 澳门交通事务局",
         "sourceDate": "2026-09-25",
-        "needsReview": true
+        "needsReview": true,
+        "detail": "金巴 24 小时，日间 65 元、夜间 70 元，车程约 40 分钟最便宜；喷射飞航约 60 分钟，日航 194–242 港元（媒体整理，以官网为准，待复核）。",
+        "sourceUrl": "https://www.hzmb.gov.hk/tc/cross-boundary.html"
       },
       {
         "title": "网约车",
         "body": "香港 Uber 选「Uber Taxi」（私家车白牌仍违法）；澳门无合法私家车网约车，用「澳门电召/电召PLUS」App。",
         "source": "香港01 / 星岛",
         "sourceDate": "2026-04-01",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港 Uber 选「Uber Taxi」（私家车白牌仍违法，网约车合法化首批平台 2026 Q4 才营运）；澳门无合法私家车网约车，用「澳门电召/电召PLUS」App。",
+        "sourceUrl": "https://www.hk01.com/社會新聞/60333996/"
       }
     ],
     "customs": [
@@ -196,42 +242,54 @@
         "body": "入香港、入澳门免税香烟均仅 19 支（或 1 支≤25g 雪茄/25g 烟草）+1 升 >30% 烈酒；旧资料「200 支」已过时，超量补税罚款。",
         "source": "香港海关 / 澳门海关",
         "sourceDate": "2026-09-15",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港 19 支香烟（或 1 支≤25g 雪茄/25g 烟草）+1 升 >30% 烈酒；澳门同为 19 支+1 升；旧资料「200 支」已过时，超量补税罚款。",
+        "sourceUrl": "https://www.customs.gov.hk/sc/service-enforcement-information/trade-facilitation/dutiable-commodities/index.html"
       },
       {
         "title": "现金申报：12 万红线",
         "body": "入香港超 12 万港元、入澳门超 12 万澳门元须申报；内地侧：人民币现钞限 2 万，外币 5000 美元以内免证。",
         "source": "香港保安局禁毒处 / 澳门海关 / 海关总署",
         "sourceDate": "2026-05-27",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "入香港超 12 万港元、入澳门超 12 万澳门元须申报；内地侧：人民币现钞限 2 万，外币 5000 美元以内免证。",
+        "sourceUrl": "https://www.nd.gov.hk/tc/cross-boundary_movement.html"
       },
       {
         "title": "香港奶粉限带 1.8kg",
         "body": "每人（16 岁+）限 1.8kg（约 2 罐）配方粉离境，且仅限 24 小时内首次离境者；违者最高罚 50 万港元+监禁 2 年。",
         "source": "香港环境及生态局 FAQ",
         "sourceDate": "2025-03-28",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "每人（16 岁+）限 1.8kg（约 2 罐）配方粉离境，且仅限 24 小时内首次离境者；违者最高罚 50 万港元+监禁 2 年。",
+        "sourceUrl": "https://www.eeb.gov.hk/food/cn/powderedformula/faq.html"
       },
       {
         "title": "药品携带",
         "body": "香港：合理自用量豁免，但危险药物/抗生素/第一部毒药（含可待因咳水）须处方或许可证；澳门：麻醉/精神类 ≤30 日量、其他 ≤90 日量，备医生证明。",
         "source": "香港海关 / 澳门海关",
         "sourceDate": "2025-10-16",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港：合理自用量豁免，但危险药物/抗生素/第一部毒药（含可待因咳水）须处方或许可证；澳门：麻醉/精神类 ≤30 日量、其他 ≤90 日量，备医生证明。",
+        "sourceUrl": "https://www.customs.gov.hk/hcms/filemanager/sc/content_185/Smart_Guide_to_Passenger_Clearance_SC.pdf"
       },
       {
         "title": "生鲜食品",
         "body": "入香港：肉/家禽/蛋须卫生证明否则违法（最高罚 5 万+监禁 6 月），水果蔬菜可带；入澳门：肉蛋奶原则上个人不能带，蔬果少量自用（合计 ≤5kg/日）。",
         "source": "香港食安中心 / 澳门海关",
         "sourceDate": "2026-09-18",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "入香港：肉/家禽/蛋须卫生证明否则违法（最高罚 5 万+监禁 6 月），水果蔬菜可带；入澳门：肉蛋奶原则上个人不能带，蔬果少量自用（合计 ≤5kg/日）。",
+        "sourceUrl": "https://www.cfs.gov.hk/tc_chi/import/import_ifc.html"
       },
       {
         "title": "回内地免税额：12000 元",
         "body": "「5000 元额度」已过时：2024-07-01 起自港澳进境 18 岁以上居民旅客 12000 元以内免税；不可分割单件（表/电脑）超额全额征税，行邮税 13%/20%/50% 三档；回内地烟酒限 200 支烟/1 瓶 0.75L 酒（2024-12-01 起）。",
         "source": "财政部公告 2024 年第 7 号 / 南京海关",
         "sourceDate": "2026-09-16",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "2024-07-01 起自港澳进境 18 岁以上居民旅客 12000 元以内免税（有进境免税店口岸合计 15000 元）；不可分割单件（表/电脑）超额全额征税；行邮税 13%/20%/50% 三档；回内地烟酒限 200 支烟/1 瓶 0.75L 酒（2024-12-01 起）。",
+        "sourceUrl": "https://fgk.chinatax.gov.cn/zcfgk/c102416/c5232646/content.html"
       }
     ],
     "tax": [
@@ -240,49 +298,63 @@
         "body": "港澳均无增值税、无任何购物退税；凡称「香港购物退税」的攻略均为误导。",
         "source": "香港财经事务及库务局 / 澳门政府入口网",
         "sourceDate": "2025-10-14",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "港澳均无增值税、无任何购物退税；凡称「香港购物退税」的攻略均为误导。",
+        "sourceUrl": "https://www.fstb.gov.hk/sc/treasury/general/prevailing-tax-policy.htm"
       },
       {
         "title": "港币在澳门按 1:1 收，亏 3%",
         "body": "澳门法定货币澳门元，港币通用但商户按 1:1 收（实亏约 3%）；大额消费付澳门元或刷银联/移动支付；换钱银行最透明，口岸/赌场周边找换店汇率差。",
         "source": "澳门旅游局",
         "sourceDate": "2026-08-04",
-        "needsReview": true
+        "needsReview": true,
+        "detail": "澳门法定货币澳门元，港币通用但商户按 1:1 收（实亏约 3%），大额消费付澳门元或刷银联/移动支付；换钱银行最透明，口岸/赌场周边找换店汇率差（惯例，无官方明文，待复核）。",
+        "sourceUrl": "https://www.macaotourism.gov.mo/zh-hans/article/before-you-travel/practical-info"
       },
       {
         "title": "移动支付与现金",
         "body": "港澳银联/支付宝/微信覆盖度高，澳门公交 2024 起扫码；香港的士/街市/茶餐厅仍以现金、八达通为主。",
         "source": "澳门旅游局 / 移动支付网",
         "sourceDate": "2024-09-18",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "港澳银联/支付宝/微信覆盖度高，澳门公交 2024 起扫码；香港的士/街市/茶餐厅仍以现金、八达通为主。",
+        "sourceUrl": "https://www.mpaypass.com.cn/news/202409/18091005.html"
       },
       {
         "title": "药房「斤两钱」陷阱",
         "body": "香港药房/参茸店宰客高发：含糊报价后按两/钱计价放大 16 倍，磨粉切片后强卖。防范：弄清单价单位前不交卡、要求交易完成后再磨粉、保留单据，遇骗拨 182 8080 或 999。",
         "source": "政府新闻处 / 文汇报",
         "sourceDate": "2026-04-29",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港药房/参茸店宰客核心手法：含糊报价后按两/钱计价放大 16 倍，磨粉切片后强卖；2026-04 海关执法案例提示：弄清单价单位前不交卡、要求交易完成后再磨粉、保留单据。",
+        "sourceUrl": "https://www.info.gov.hk/gia/general/202604/22/P2026042200681.htm"
       },
       {
         "title": "香港维权渠道",
         "body": "消委会 +852 2929 2222（只调停无执法权）；误导销售直接向香港海关举报（182 8080 / 2545 6182），《商品说明条例》最高罚 50 万+监禁 5 年；认「优质旅游服务 QTS」优字标志。",
         "source": "香港海关",
         "sourceDate": "2025-10-09",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "误导销售直接向香港海关举报（182 8080 / 2545 6182），《商品说明条例》最高罚 50 万+监禁 5 年；消委会只调停无执法权；认「优质旅游服务 QTS」优字标志。",
+        "sourceUrl": "https://www.customs.gov.hk/tc/service-enforcement-information/consumer-protection/trade-desc/index.html"
       },
       {
         "title": "澳门维权渠道",
         "body": "消委会 +853 8988 9315；10 万澳门元以下消费争议可免费仲裁、支持跨境远程（返乡后经当地消协转介）；认「诚信店」标志（超 1300 家）。",
         "source": "澳门消委会",
         "sourceDate": "2026-09-27 调研",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "10 万澳门元以下消费争议可免费仲裁、支持跨境远程（返乡后经当地消协转介）；认「诚信店」标志（超 1300 家）。",
+        "sourceUrl": "https://consumer.dsedt.gov.mo/CAC/apply.aspx?lang=zh"
       },
       {
         "title": "餐厅附加费",
         "body": "香港「加一」服务费/茶位费常见，结账前看清；澳门节假日附加费须明码标价。",
         "source": "香港消委会",
         "sourceDate": "2026-09-27 调研",
-        "needsReview": false
+        "needsReview": false,
+        "detail": "香港「加一」服务费/茶位费常见，结账前看清；澳门节假日附加费须明码标价。",
+        "sourceUrl": "https://www.consumer.org.hk/sc/complaint-record/594-restaurant-complaints"
       }
     ]
   },
@@ -299,16 +371,32 @@
           "签注过期/无效会被阻出境：配合边检指引返回内地侧，重新办理后再过关。"
         ],
         "phrases": [
-          { "id": "rescue_customs_1", "zh": "我来旅游，住在这家酒店。", "en": "I am here for tourism. I stay at this hotel.", "local": "我來旅遊，住在這間酒店。" },
-          { "id": "rescue_customs_2", "zh": "我的签注在这里，请看。", "en": "Here is my permit and endorsement.", "local": "我的簽注在這裡，請看。" },
-          { "id": "rescue_customs_3", "zh": "我自愿返回内地重新办理。", "en": "I would like to return to the mainland and reapply.", "local": "我自願返回內地重新辦理。" }
+          {
+            "id": "rescue_customs_1",
+            "zh": "我来旅游，住在这家酒店。",
+            "en": "I am here for tourism. I stay at this hotel.",
+            "local": "我來旅遊，住在這間酒店。"
+          },
+          {
+            "id": "rescue_customs_2",
+            "zh": "我的签注在这里，请看。",
+            "en": "Here is my permit and endorsement.",
+            "local": "我的簽注在這裡，請看。"
+          },
+          {
+            "id": "rescue_customs_3",
+            "zh": "我自愿返回内地重新办理。",
+            "en": "I would like to return to the mainland and reapply.",
+            "local": "我自願返回內地重新辦理。"
+          }
         ],
         "evidence": [
           "入境标签/凭条拍照存档",
           "记录关口、柜台与时间",
           "通行证首页与签注页拍照",
           "被阻出境时索要书面说明"
-        ]
+        ],
+        "exportGuide": "被阻出境请配合边检返回内地侧重新办理；出入境政策咨询拨 12367（7×24 中英双语）。"
       },
       {
         "id": "taxi",
@@ -320,16 +408,32 @@
           "拒载议价：记下车牌，香港投诉交通投诉组 +852 2889 9999，澳门拨 +853 8866 6363。"
         ],
         "phrases": [
-          { "id": "rescue_taxi_1", "zh": "请打表。", "en": "Please use the meter.", "local": "請按錶收費。" },
-          { "id": "rescue_taxi_2", "zh": "请按导航路线走。", "en": "Please follow the GPS route.", "local": "請跟導航行。" },
-          { "id": "rescue_taxi_3", "zh": "请给我收据。", "en": "Receipt, please.", "local": "請給我收據。" }
+          {
+            "id": "rescue_taxi_1",
+            "zh": "请打表。",
+            "en": "Please use the meter.",
+            "local": "請按錶收費。"
+          },
+          {
+            "id": "rescue_taxi_2",
+            "zh": "请按导航路线走。",
+            "en": "Please follow the GPS route.",
+            "local": "請跟導航行。"
+          },
+          {
+            "id": "rescue_taxi_3",
+            "zh": "请给我收据。",
+            "en": "Receipt, please.",
+            "local": "請給我收據。"
+          }
         ],
         "evidence": [
           "车牌照片（车前与车内牌照）",
           "行程轨迹截图",
           "收据或支付记录",
           "司机证编号"
-        ]
+        ],
+        "exportGuide": "香港的士投诉拨交通投诉组 +852 2889 9999 或政府热线 1823；澳门的士投诉拨 +853 8866 6363，附车牌与收据。"
       },
       {
         "id": "hospital",
@@ -341,17 +445,38 @@
           "保留全部收据、诊断证明与处方原件——保险理赔的硬材料。"
         ],
         "phrases": [
-          { "id": "rescue_hospital_1", "zh": "我需要看医生。", "en": "I need a doctor.", "local": "我需要睇醫生。" },
-          { "id": "rescue_hospital_2", "zh": "我对青霉素过敏。", "en": "I am allergic to penicillin.", "local": "我對青霉素過敏。" },
-          { "id": "rescue_hospital_3", "zh": "这个单价是按斤、按两还是按钱算？", "en": "Is this priced per catty, per tael, or per mace?", "local": "呢個單價係按斤、按兩定按錢計？" },
-          { "id": "rescue_hospital_4", "zh": "请给我诊断证明和收据。", "en": "Please give me a medical certificate and receipt.", "local": "請俾我診斷證明同收據。" }
+          {
+            "id": "rescue_hospital_1",
+            "zh": "我需要看医生。",
+            "en": "I need a doctor.",
+            "local": "我需要睇醫生。"
+          },
+          {
+            "id": "rescue_hospital_2",
+            "zh": "我对青霉素过敏。",
+            "en": "I am allergic to penicillin.",
+            "local": "我對青霉素過敏。"
+          },
+          {
+            "id": "rescue_hospital_3",
+            "zh": "这个单价是按斤、按两还是按钱算？",
+            "en": "Is this priced per catty, per tael, or per mace?",
+            "local": "呢個單價係按斤、按兩定按錢計？"
+          },
+          {
+            "id": "rescue_hospital_4",
+            "zh": "请给我诊断证明和收据。",
+            "en": "Please give me a medical certificate and receipt.",
+            "local": "請俾我診斷證明同收據。"
+          }
         ],
         "evidence": [
           "诊断证明与处方原件",
           "全部收据与付款凭证",
           "药品包装与标签照片",
           "药店名称、地址与招牌照片"
-        ]
+        ],
+        "exportGuide": "药房纠纷拨香港海关 182 8080 举报（《商品说明条例》最高罚 50 万+监禁 5 年）；就医材料用于保险理赔。"
       },
       {
         "id": "police",
@@ -363,16 +488,32 @@
           "提前存好的通行证首页/签注页照片可明显加快补办流程。"
         ],
         "phrases": [
-          { "id": "rescue_police_1", "zh": "我的通行证丢了，我需要报失证明。", "en": "I lost my travel permit. I need a police report.", "local": "我嘅通行證唔見咗，我需要報失證明。" },
-          { "id": "rescue_police_2", "zh": "我被偷了/被抢了。", "en": "I was robbed.", "local": "我俾人搶咗。" },
-          { "id": "rescue_police_3", "zh": "请帮我联系中国驻当地机构。", "en": "Please help me contact the Chinese consular office.", "local": "請幫我聯絡中國駐當地機構。" }
+          {
+            "id": "rescue_police_1",
+            "zh": "我的通行证丢了，我需要报失证明。",
+            "en": "I lost my travel permit. I need a police report.",
+            "local": "我嘅通行證唔見咗，我需要報失證明。"
+          },
+          {
+            "id": "rescue_police_2",
+            "zh": "我被偷了/被抢了。",
+            "en": "I was robbed.",
+            "local": "我俾人搶咗。"
+          },
+          {
+            "id": "rescue_police_3",
+            "zh": "请帮我联系中国驻当地机构。",
+            "en": "Please help me contact the Chinese consular office.",
+            "local": "請幫我聯絡中國駐當地機構。"
+          }
         ],
         "evidence": [
           "报失证明编号与警署名称",
           "通行证首页/签注页照片存档",
           "中旅社/出入境部门办理回执",
           "银行挂失的时间与工单号"
-        ]
+        ],
+        "exportGuide": "香港经中旅证件服务中心办一次性出入境通行证（普通 3 个工作日）；澳门经治安警察局+澳门中旅社；紧急情况拨 999。"
       },
       {
         "id": "hotel",
@@ -384,17 +525,38 @@
           "离店后写结构化差评；争议金额走平台先行赔付流程。"
         ],
         "phrases": [
-          { "id": "rescue_hotel_1", "zh": "我订的是无烟房，这个房间有烟味。", "en": "I booked a non-smoking room. This room smells of smoke.", "local": "我訂嘅係無煙房，呢間房有煙味。" },
-          { "id": "rescue_hotel_2", "zh": "我的预订是两晚，这是确认单。", "en": "My booking is two nights. Here is the confirmation.", "local": "我嘅預訂係兩晚，呢個係確認單。" },
-          { "id": "rescue_hotel_3", "zh": "这项附加费没有事先标明。", "en": "This surcharge was not disclosed in advance.", "local": "呢項附加費冇事先標明。" },
-          { "id": "rescue_hotel_4", "zh": "请让经理过来。", "en": "Please call the manager.", "local": "請叫經理過嚟。" }
+          {
+            "id": "rescue_hotel_1",
+            "zh": "我订的是无烟房，这个房间有烟味。",
+            "en": "I booked a non-smoking room. This room smells of smoke.",
+            "local": "我訂嘅係無煙房，呢間房有煙味。"
+          },
+          {
+            "id": "rescue_hotel_2",
+            "zh": "我的预订是两晚，这是确认单。",
+            "en": "My booking is two nights. Here is the confirmation.",
+            "local": "我嘅預訂係兩晚，呢個係確認單。"
+          },
+          {
+            "id": "rescue_hotel_3",
+            "zh": "这项附加费没有事先标明。",
+            "en": "This surcharge was not disclosed in advance.",
+            "local": "呢項附加費冇事先標明。"
+          },
+          {
+            "id": "rescue_hotel_4",
+            "zh": "请让经理过来。",
+            "en": "Please call the manager.",
+            "local": "請叫經理過嚟。"
+          }
         ],
         "evidence": [
           "房间问题照片/视频（带时间）",
           "预订确认单截图",
           "未明码标价的收费小票",
           "与前台/平台客服的沟通记录"
-        ]
+        ],
+        "exportGuide": "未明码标价的附加费可争议拒付；争议金额走预订平台先行赔付流程。"
       },
       {
         "id": "tax_refund",
@@ -406,37 +568,109 @@
           "纠纷维权：香港误导销售拨海关 182 8080（《商品说明条例》最高罚 50 万+监禁 5 年）；澳门 10 万澳门元以下争议可向消委会申请免费仲裁。"
         ],
         "phrases": [
-          { "id": "rescue_tax_1", "zh": "请写清楚单价和单位。", "en": "Please write down the unit price and unit clearly.", "local": "請寫清楚單價同單位。" },
-          { "id": "rescue_tax_2", "zh": "请先不要磨粉，我考虑一下。", "en": "Please don't grind it yet. Let me think.", "local": "請暫時唔好磨粉，我諗諗先。" },
-          { "id": "rescue_tax_3", "zh": "我要投诉这个销售行为。", "en": "I want to file a complaint about this sale.", "local": "我要投訴呢個銷售行為。" }
+          {
+            "id": "rescue_tax_1",
+            "zh": "请写清楚单价和单位。",
+            "en": "Please write down the unit price and unit clearly.",
+            "local": "請寫清楚單價同單位。"
+          },
+          {
+            "id": "rescue_tax_2",
+            "zh": "请先不要磨粉，我考虑一下。",
+            "en": "Please don't grind it yet. Let me think.",
+            "local": "請暫時唔好磨粉，我諗諗先。"
+          },
+          {
+            "id": "rescue_tax_3",
+            "zh": "我要投诉这个销售行为。",
+            "en": "I want to file a complaint about this sale.",
+            "local": "我要投訴呢個銷售行為。"
+          }
         ],
         "evidence": [
           "全部购物单据拍照",
           "商品与价签照片",
           "店铺招牌与地址记录",
           "沟通录音（如可行）"
-        ]
+        ],
+        "exportGuide": "香港误导销售拨海关 182 8080 举报；澳门 10 万澳门元以下消费争议向消委会 +853 8988 9315 申请免费仲裁。"
       }
     ]
   },
   "sos": {
     "contactSource": "来源：GovHK、澳门政府入口网、外交部驻港/驻澳公署官网，2026-09 核对",
     "contacts": [
-      { "name": "香港报警/急救/火警", "number": "999", "note": "听障短信 992" },
-      { "name": "澳门报警/急救/火警", "number": "999", "note": "消防 119 · 救护 120" },
-      { "name": "澳门旅游局 24 小时热线", "number": "+853 2833 3000", "note": "有普通话服务" },
-      { "name": "香港消委会", "number": "+852 2929 2222", "note": "消费投诉" },
-      { "name": "澳门消委会", "number": "+853 8988 9315", "note": "消费争议免费仲裁" },
-      { "name": "外交部驻港公署领保", "number": "+852 2106 6869", "note": "领事保护" },
-      { "name": "外交部驻澳公署领保", "number": "+853 6688 8353", "note": "24 小时" },
-      { "name": "外交部全球领保热线", "number": "+86-10-12308", "note": "备用 +86-10-65612308" },
-      { "name": "国家移民管理局咨询", "number": "12367", "note": "7×24 中英双语" }
+      {
+        "name": "香港报警/急救/火警",
+        "number": "999",
+        "note": "听障短信 992"
+      },
+      {
+        "name": "澳门报警/急救/火警",
+        "number": "999",
+        "note": "消防 119 · 救护 120"
+      },
+      {
+        "name": "澳门旅游局 24 小时热线",
+        "number": "+853 2833 3000",
+        "note": "有普通话服务"
+      },
+      {
+        "name": "香港消委会",
+        "number": "+852 2929 2222",
+        "note": "消费投诉"
+      },
+      {
+        "name": "澳门消委会",
+        "number": "+853 8988 9315",
+        "note": "消费争议免费仲裁"
+      },
+      {
+        "name": "外交部驻港公署领保",
+        "number": "+852 2106 6869",
+        "note": "领事保护"
+      },
+      {
+        "name": "外交部驻澳公署领保",
+        "number": "+853 6688 8353",
+        "note": "24 小时"
+      },
+      {
+        "name": "外交部全球领保热线",
+        "number": "+86-10-12308",
+        "note": "备用 +86-10-65612308"
+      },
+      {
+        "name": "国家移民管理局咨询",
+        "number": "12367",
+        "note": "7×24 中英双语"
+      }
     ],
     "phrases": [
-      { "id": "sos_help", "zh": "救命！请帮帮我。", "en": "Help! Please help me.", "local": "救命！請幫幫我。" },
-      { "id": "sos_police", "zh": "请帮我报警。", "en": "Please call the police for me.", "local": "請幫我報警。" },
-      { "id": "sos_medical", "zh": "我需要救护车。", "en": "I need an ambulance.", "local": "我需要救護車。" },
-      { "id": "sos_lost", "zh": "我迷路了，请带我去这个地址。", "en": "I am lost. Please take me to this address.", "local": "我蕩失路，請帶我去呢個地址。" }
+      {
+        "id": "sos_help",
+        "zh": "救命！请帮帮我。",
+        "en": "Help! Please help me.",
+        "local": "救命！請幫幫我。"
+      },
+      {
+        "id": "sos_police",
+        "zh": "请帮我报警。",
+        "en": "Please call the police for me.",
+        "local": "請幫我報警。"
+      },
+      {
+        "id": "sos_medical",
+        "zh": "我需要救护车。",
+        "en": "I need an ambulance.",
+        "local": "我需要救護車。"
+      },
+      {
+        "id": "sos_lost",
+        "zh": "我迷路了，请带我去这个地址。",
+        "en": "I am lost. Please take me to this address.",
+        "local": "我蕩失路，請帶我去呢個地址。"
+      }
     ]
   }
 }
