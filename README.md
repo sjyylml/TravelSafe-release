@@ -4,13 +4,13 @@
 
 > 本仓库仅发布安装包（APK），源代码在私有仓库维护。
 
-## 扫码下载（v0.8.0 最新）
+## 扫码下载（v0.9.0 最新）
 
-![下载二维码](qr/qr-v0.8.0.png)
+![下载二维码](qr/qr-v0.9.0.png)
 
 用手机浏览器或系统扫码工具扫描，即可直接下载 APK：
 
-- 直链：[TravelSafe-v0.8.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.8.0/TravelSafe-v0.8.0.apk)
+- 直链：[TravelSafe-v0.9.0.apk](https://github.com/sjyylml/TravelSafe-release/releases/download/v0.9.0/TravelSafe-v0.9.0.apk)
 - 全部版本：[Releases](https://github.com/sjyylml/TravelSafe-release/releases)
 
 ## 安装说明
@@ -24,7 +24,14 @@
 
 ## 版本内容
 
-### v0.8.0（当前）
+### v0.9.0（当前）
+
+- 每条须知可展开看依据与真实案例，来源可点直达官方原文
+- 留证导出：勾选证据一键生成留证包，微信分享
+- 双语医疗卡：过敏/慢病 → 中英+当地语言出示卡，可朗读
+- 16 项体验修复（定位超时/PDF进度/权限引导等）
+
+### v0.8.0
 
 - 行程按目的地独立：泰国/港澳各有自己的行程，切换互不干扰
 - 跨地旅程自动分段：一次录完多目的地行程，App 按城市自动归位（可撤销），跨境航段两边衔接显示
